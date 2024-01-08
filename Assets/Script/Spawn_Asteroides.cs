@@ -12,7 +12,7 @@ public class Spawn_Asteroides : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Vector3 randomSpawnPos = new Vector3(Random.Range(-10, -11), Random.Range(-10,-11));
+            Vector3 randomSpawnPos = new Vector3(Random.Range(-10, 11), 6 , Random.Range(-10,11));
             Instantiate(squarePrefab, randomSpawnPos, Quaternion.identity);
         }
     }
