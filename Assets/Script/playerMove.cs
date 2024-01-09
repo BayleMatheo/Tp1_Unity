@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
@@ -43,6 +44,15 @@ public class PlayerMove : MonoBehaviour
         }
         
         // _rb.velocity = new Vector3(movedirection.x,movedirection.y, 0f) * speed;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Asteroid")
+        {
+            PlayerManager.isGameOver = true;
+            gameObject.SetActive(false);
+        }
     }
 }
 
