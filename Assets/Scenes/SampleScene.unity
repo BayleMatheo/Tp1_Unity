@@ -849,7 +849,7 @@ GameObject:
   - component: {fileID: 582055084}
   - component: {fileID: 582055083}
   - component: {fileID: 582055082}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: bordure1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -962,7 +962,7 @@ Transform:
   m_GameObject: {fileID: 582055081}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -0.4038, y: -5.45, z: 0}
+  m_LocalPosition: {x: -0.85, y: -5.58, z: 0}
   m_LocalScale: {x: 1.0228668, y: 23.453709, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1291,7 +1291,7 @@ GameObject:
   - component: {fileID: 1005115508}
   - component: {fileID: 1005115507}
   - component: {fileID: 1005115506}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: bordure1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1404,7 +1404,7 @@ Transform:
   m_GameObject: {fileID: 1005115505}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.83, y: -0.03, z: 0}
+  m_LocalPosition: {x: -9.35, y: -0.12, z: 0}
   m_LocalScale: {x: 0.86049205, y: 9.89803, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1421,7 +1421,7 @@ GameObject:
   - component: {fileID: 1722409209}
   - component: {fileID: 1722409208}
   - component: {fileID: 1722409207}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: bordure1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1534,7 +1534,7 @@ Transform:
   m_GameObject: {fileID: 1722409206}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.83, y: -0.5374, z: 0}
+  m_LocalPosition: {x: 9.38, y: -0.12, z: 0}
   m_LocalScale: {x: 0.86049205, y: 10.994125, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1551,7 +1551,7 @@ GameObject:
   - component: {fileID: 1790535902}
   - component: {fileID: 1790535901}
   - component: {fileID: 1790535900}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: bordure1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
