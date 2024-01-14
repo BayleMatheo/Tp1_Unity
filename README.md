@@ -19,6 +19,6 @@ Ce projet Unity Space Survivor est un mini jeux où vous allez devoiir éviter u
 ![Capture d'écran 2](/screenshots/Capture%20d’écran%20(2).png)
 
 ## Auteurs
-- Pierre Pouts <john.doe@email.com>
+- Pierre Pouts
 - Matheo Bayle <matheo.bayle@ynov.com>
 
